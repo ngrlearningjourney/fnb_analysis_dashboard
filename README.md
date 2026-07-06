@@ -16,7 +16,7 @@
 
 ## Metrics
 
-The dashboard and analysis focusing on Head Of Product and Head of Operation to examine their FnB Business overtime.
+The dashboard and analysis focusing on Head Of Product and Head of Sales to examine their FnB Business overtime.
 
 - Waiting time
 - Rating
