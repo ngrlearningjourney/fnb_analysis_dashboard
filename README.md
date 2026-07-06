@@ -69,4 +69,9 @@ The dashboard and analysis focusing on Head Of Product and Head of Operation to 
 - According to the data, on May latte (dine-in and online) has the highest order number (11 order) followed by tea (dine in) with 8 order in that period
 - According to the data, on april coffee (dine-in) is the number one item that get ordered (8 order), followed by tea through online order (8 order), and burger (online) with 7 order during that month--April
 
+## Acknowledgements
+
+- **Data:** Personal research and ChatGPT
+**Tools Used:** Jupyter Notebook, SQLite, Tableau
+
 
