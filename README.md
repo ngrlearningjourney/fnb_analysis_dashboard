@@ -71,7 +71,7 @@ The dashboard and analysis focusing on Head Of Product and Head of Operation to 
 
 ## Acknowledgements
 
-- **Data:** Personal research and ChatGPT
-**Tools Used:** Jupyter Notebook, SQLite, Tableau
+- **Data:** Personal Knowledge and ChatGPT
+- **Tools Used:** Jupyter Notebook, SQLite, Tableau
 
 
