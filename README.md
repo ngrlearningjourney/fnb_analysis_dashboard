@@ -24,7 +24,7 @@ The dashboard and analysis focusing on Head Of Product and Head of Sales to exam
 - Revenue
 
 [See the dashboard](https://public.tableau.com/views/fnb_dashboard/Dashboard22?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard](fnb_dashboard.png)
+![Dashboard](fnb_dashboard_2.png)
 
 ---
 
